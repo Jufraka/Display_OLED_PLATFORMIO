@@ -1,4 +1,4 @@
-# OLED Control Example
+# OLED Control Example Heltec WiFi LoRa 32 V3
 
 This example shows how to power and drive a 128×64 SSD1306 OLED display from an ESP32 board using the same methodology as the reference firmware in this repository. The display is powered through the Vext pin (GPIO 36 in this sketch) and rendered with the [U8g2](https://github.com/olikraus/u8g2) graphics library.
 
